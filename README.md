@@ -1,2 +1,2 @@
 # Battleship
-A game in Python
+This is a game
